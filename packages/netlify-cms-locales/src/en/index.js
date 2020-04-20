@@ -224,6 +224,7 @@ const en = {
       onDeleteUnpublishedChanges: 'Unpublished changes deleted',
       onFailToAuth: '%{details}',
       onLoggedOut: 'You have been logged out, please back up any data and login again',
+      entriesSaved: 'Entries saved',
     },
   },
   workflow: {
