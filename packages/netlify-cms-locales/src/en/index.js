@@ -225,6 +225,7 @@ const en = {
       onFailToAuth: '%{details}',
       onLoggedOut: 'You have been logged out, please back up any data and login again',
       entriesSaved: 'Entries saved',
+      entriesMoved: 'Entries moved',
     },
   },
   workflow: {
