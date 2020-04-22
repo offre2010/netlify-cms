@@ -226,6 +226,7 @@ const en = {
       onLoggedOut: 'You have been logged out, please back up any data and login again',
       entriesSaved: 'Entries saved',
       entriesMoved: 'Entries moved',
+      entryMoved: 'Entry moved',
     },
   },
   workflow: {
