@@ -3,7 +3,6 @@ title: Configuration Options
 group: reference
 weight: 23
 ---
-
 ## Configuration File
 
 All configuration options for Netlify CMS are specified in a `config.yml` file, in the folder where you access the editor UI (usually in the `/admin` folder).
@@ -403,7 +402,7 @@ When `author` field can't be inferred commit author will be used.
 
 An optional list of predefined view filters to show in the UI.
 
-Defaults to an empty list.
+Defaults to an empty list...
 
 **Example**
 
